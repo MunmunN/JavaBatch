@@ -9,7 +9,7 @@ public class ScanningValues {
     System.out.println("pl enter value of b");
     int b =sc.nextInt();
     if ( a==b){
-      System.out.println("a=b");
+      System.out.println("a= b");
 
     }
     else{
